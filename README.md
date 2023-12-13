@@ -11,5 +11,5 @@ Passes Title, Description and Duration to pageGenerator
 
 Generates the widgets on each page
 
-##Timer Widget
+## Timer Widget
 Generates and Controls the Timer and page transitions
